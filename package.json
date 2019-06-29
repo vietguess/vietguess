@@ -1,0 +1,15 @@
+{
+  "name": "vietguess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "vg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tmone.NVT",
+  "license": "ISC",
+  "dependencies": {
+    "elasticsearch": "^16.1.1",
+    "https": "^1.0.0"
+  }
+}
